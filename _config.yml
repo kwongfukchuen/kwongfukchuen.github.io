@@ -1,4 +1,4 @@
-title: NoteTheme
+title: Notes
 description: You cannot remember everything.
 baseurl: "/notes"
 url: "https://kwongfukchuen.github.io"
@@ -12,7 +12,7 @@ favicon: "/assets/res/favicon.png" # site's favicon (icon left side of your page
 user: 
   name: "John"
   email: "kwongfukchuen@gmail.com"
-  website: "math2it.com"
+  website: ""
   avatar: "/assets/res/user.png"
   github: "kwongfukchuen"
 google_tracking_id: ""
