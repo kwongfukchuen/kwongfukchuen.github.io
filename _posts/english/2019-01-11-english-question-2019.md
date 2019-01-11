@@ -1,5 +1,5 @@
 ---
-title: Daily Sentences in Englsih (2019)
+title: English Questions (2019)
 categories: english
 tags: [english]
 maths: 1
